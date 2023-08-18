@@ -22,4 +22,3 @@ jobs:
           registry-url: "https://npm.pkg.github.com"
       - run: npm install
       - run: npm run lint
-      - run: echo 'we are testing SHA stuff'
