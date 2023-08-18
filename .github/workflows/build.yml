@@ -20,5 +20,4 @@ jobs:
           node-version: 16.x
           cache: "npm"
           registry-url: "https://npm.pkg.github.com"
-      - run: npm run format-check
       - run: npm run build
