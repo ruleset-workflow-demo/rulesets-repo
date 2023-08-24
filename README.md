@@ -1,2 +1,2 @@
-# rulesets-repo
+# workflows-repo
 Hosts our rulesets
